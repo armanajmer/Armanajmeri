@@ -1,0 +1,113 @@
+<html>
+    <head>
+        <title>Bootstrap Form Demo</title>
+        
+		<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+        <link rel="stylesheet" type="text/css" href="style.css">
+		
+		<style>
+		h2 {color: red;}
+		</style>
+		<style type="text/css">
+			#CNAForm{margin-top: 40px;margin-bottom: 40px; width: 70%; height: 500px;box-shadow: 0px 0px 14px blue;}
+			i.fa,b{color:red;}
+		</style>
+		
+    </head>
+	<body class="bg-img">
+    <body>
+        <div align="center">
+		<div class="container-fluid text-primary">
+			<div class="row">
+				<div class="col-xs-12 col-sm-offset-3 col-sm-6 col-md-offset-4 col-md-4 col-lg-offset-4 col-lg-4" id="CNAForm">
+					<h2 class="text-center text-white"><i class="fa fa-users"></i> Create New Account<hr color="#A569BD"></h2>
+					<div class="form-group">
+						<b>Firstname:</b>
+						<div class="input-group">
+						<swg/>
+							<span class="input-group-addon"><i class="fa fa-user" aria-hidden="true"></i></span>
+							<input id="TxtFirstname" type="text" maxlength="20" placeholder="Enter firstname here.." class="form-control" />
+						</div>
+						<small id="TxtFirstnameValidate" class="text-danger"></small>
+					</div>
+					<div class="form-group">
+						<b>Lastname:</b>
+						<div class="input-group">
+							<span class="input-group-addon"><i class="fa fa-user"></i></span>
+							<input id="TxtLastname" type="text" maxlength="20" placeholder="Enter lastname here.." class="form-control" />
+						</div>
+						<small id="TxtLastnameValidate" class="text-danger"></small>
+					</div>
+					<div class="form-group">
+						<b><i class="fa fa-phone"></i> Contact No:</b>
+						<div class="input-group">
+							<input type="text" name="contry code" value="+91" size="1">
+							<input id="TxtContactNo" type="text" maxlength="10" placeholder="Enter contact no. here.." class="form-control" />
+						</div>
+						<small id="TxtContactNoValidate" class="text-danger"></small>
+					</div>
+					<div class="form-group">
+						<b>Gender:</b>
+						<div class="input-group">
+							<span class="input-group-addon"><i class="fa fa-female"></i> | <i class="fa fa-male"></i></span>
+							<select class="form-control" id="DDL_Gender">
+								<option value="F">Female</option>
+								<option value="M">Male</option>
+							</select>
+						</div>
+					</div>
+					<div class="form-group">
+						<b>Email Id:</b>
+						<div class="input-group">
+							<span class="input-group-addon"><i class="fa fa-envelope"></i></span>
+							<input id="TxtEmailId" type="text" maxlength="50" placeholder="Enter email id here.." class="form-control" />
+						</div>
+						<small id="TxtEmailIdValidate" class="text-danger"></small>
+					</div>
+					<div class="form-group">
+						<b>Password:</b>
+						<div class="input-group">
+							<span class="input-group-addon"><i class="fa fa-key"></i></span>
+							<input id="TxtPassword" type="password" maxlength="12" placeholder="Enter password here.." class="form-control" />
+						</div>
+						<small id="TxtPasswordValidate" class="text-danger"></small>
+					</div>
+					<div>
+					<b>City:</b><br>
+					<i class="fa fa-home" aria-hidden="true"></i>
+					<select class="form-select" aria-label="Default select example">
+						<option selected>select city</option>
+						<option value="AHMEDABAD">AHMEDABAD</option>
+						<option value="delhi">DELHI</option>
+						<option value="vadodara">VADODARA</option>
+						<option value="rajkot">RAJKOT</option>
+					</select>
+					</div>
+					<div>
+					<b>Course:</b><br>
+					<i class="fa fa-book" aria-hidden="true"></i>
+					<select class="form-control" aria-label="Default select example">
+						<option selected>select course</option>
+						<option value="BCA">BCA</option>
+						<option value="B.TECH">B.TECH</option>
+						<option value="MBA">MBA</option>
+						<option value="MCA">MCA</option>
+					</select>
+					</div>
+					<div>
+					<b>Upload Photo:</b><br>
+					<i class="fa fa-file-image-o" aria-hidden="true"></i>
+						<label for="FormControlFile1"></label>
+						<input class="form-control form-controlsm" id="formfilesm" type="file">
+					  </div>
+					  <div>
+					 <b>Address:</b><br>
+					 <i class="fa fa-map-marker" aria-hidden="true"></i>
+						 <input type="text" class="form-control" id="inputaddressline1"  placeholder="Enter your address">
+                          </div><br>
+						  <div>
+							<button type="submit" class="btn btn-primary">Submit</button>
+						  <input type="reset" value="Reset">
+                         </div>
+    </body>
+</html>
