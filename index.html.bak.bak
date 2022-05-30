@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!-- Created By CodingNepal -->
+<!-- Created By altaf ajmeri -->
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -73,14 +73,109 @@
                     <div class="box">
                         <i class="fas fa-paint-brush"></i>
                         <div class="text">Web Design</div>
-                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rem quia sunt, quasi quo illo enim.</p>
+                        <p>If you are a programmer, then at some point you must be craving for the motivation for the consistency in Programming.
+
+Most of us search for substantial reasons to learn Programming.
+
+It doesn’t matter whether you are a beginner or an advanced programmer. Everybody needs motivation or inspiration for programming.</p>
                     </div>
                 </div>
                 <div class="card">
                     <div class="box">
                         <i class="fas fa-chart-line"></i>
                         <div class="text">Advertising</div>
-                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rem quia sunt, quasi quo illo enim.</p>
+                        <p>               <div class="card">
+                    <div class="box">
+                        <img src="images/profile-4.jpeg" alt="">
+                        <div class="text">Someone name</div>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="box">
+                        <img src="images/profile-5.jpeg" alt="">
+                        <div class="text">Someone name</div>
+                        <p>johnson.</p>
+                    </div>
+               <div class="card">
+                    <div class="box">
+                        <img src="images/profile-4.jpeg" alt="">
+                        <div class="text">Someone name</div>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="box">
+                        <img src="images/profile-5.jpeg" alt="">
+                        <div class="text">Someone name</div>
+                        <p>johnson.</p>
+                    </div>
+               <div class="card">
+                    <div class="box">
+                        <img src="images/profile-4.jpeg" alt="">
+                        <div class="text">Someone name</div>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="box">
+                        <img src="images/profile-5.jpeg" alt="">
+                        <div class="text">Someone name</div>
+                        <p>johnson.</p>
+                    </div>
+               <div class="card">
+                    <div class="box">
+                        <img src="images/profile-4.jpeg" alt="">
+                        <div class="text">Someone name</div>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="box">
+                        <img src="images/profile-5.jpeg" alt="">
+                        <div class="text">Someone name</div>
+                        <p>johnson.</p>
+                    </div>
+               <div class="card">
+                    <div class="box">
+                        <img src="images/profile-4.jpeg" alt="">
+                        <div class="text">Someone name</div>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="box">
+                        <img src="images/profile-5.jpeg" alt="">
+                        <div class="text">Someone name</div>
+                        <p>johnson.</p>
+                    </div>
+               <div class="card">
+                    <div class="box">
+                        <img src="images/profile-4.jpeg" alt="">
+                        <div class="text">Someone name</div>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="box">
+                        <img src="images/profile-5.jpeg" alt="">
+                        <div class="text">Someone name</div>
+                        <p>johnson.</p>
+                    </div>
+               <div class="card">
+                    <div class="box">
+                        <img src="images/profile-4.jpeg" alt="">
+                        <div class="text">Someone name</div>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="box">
+                        <img src="images/profile-5.jpeg" alt="">
+                        <div class="text">Someone name</div>
+                        <p>johnson.</p>
+                    </div>
+.</p>
                     </div>
                 </div>
                 <div class="card">
@@ -102,7 +197,7 @@
             <div class="skills-content">
                 <div class="column left">
                     <div class="text">My creative skills & experiences.</div>
-                    
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos, ratione error est recusandae consequatur, iusto illum deleniti quidem impedit, quos quaerat quis minima sequi. Cupiditate recusandae laudantium esse, harum animi aspernatur quisquam et delectus ipsum quam alias quaerat? Quasi hic quidem illum. Ad delectus natus aut hic explicabo minus quod.</p>
                     <a href="#">Read more</a>
                 </div>
                 <div class="column right">
@@ -153,37 +248,37 @@
             <div class="carousel owl-carousel">
                 <div class="card">
                     <div class="box">
-                        <img src="C:\Users\student\Desktop\Responsive Portfolio Website\Responsive Portfolio Website\images\images (1).jfif" alt="mohsin"/>
+                        <img src="images/profile-1.jpeg" alt="">
                         <div class="text">Someone name</div>
-                       
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
                     </div>
                 </div>
                 <div class="card">
                     <div class="box">
-                        <img src="images/profile-2.jpeg"  alt="jafar ">
+                        <img src="images/profile-2.jpeg" alt="">
                         <div class="text">Someone name</div>
-                      
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
                     </div>
                 </div>
                 <div class="card">
                     <div class="box">
-                        <img src="images/images1.jfif" alt="aman">
+                        <img src="images/profile-3.jpeg" alt="">
                         <div class="text">Someone name</div>
-                       
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
                     </div>
                 </div>
                 <div class="card">
                     <div class="box">
-                        <img src="images/profile-4.jpeg" alt="altaf">
+                        <img src="images/profile-4.jpeg" alt="">
                         <div class="text">Someone name</div>
-                        
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
                     </div>
                 </div>
                 <div class="card">
                     <div class="box">
-                        <img src="images (1).jfif" alt="aneesha">
+                        <img src="images/profile-5.jpeg" alt="">
                         <div class="text">Someone name</div>
-                        
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
                     </div>
                 </div>
             </div>
@@ -197,7 +292,7 @@
             <div class="contact-content">
                 <div class="column left">
                     <div class="text">Get in Touch</div>
-                   
+                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dignissimos harum corporis fuga corrupti. Doloribus quis soluta nesciunt veritatis vitae nobis?</p>
                     <div class="icons">
                         <div class="row">
                             <i class="fas fa-user"></i>
@@ -210,14 +305,14 @@
                             <i class="fas fa-map-marker-alt"></i>
                             <div class="info">
                                 <div class="head">Address</div>
-                                <div class="sub-title">fatehwadi sarkhej ,ahmedabad 380055.</div>
+                                <div class="sub-title">sarkhej , gujarat</div>
                             </div>
                         </div>
                         <div class="row">
                             <i class="fas fa-envelope"></i>
                             <div class="info">
                                 <div class="head">Email</div>
-                                <div class="sub-title">armanajmeri70649@gmail.com</div>
+                                <div class="sub-title">armanjameri70649@gmail.com</div>
                             </div>
                         </div>
                     </div>
@@ -250,7 +345,7 @@
 
     <!-- footer section start -->
     <footer>
-        <span>Created By <a href="https://www.codingnepalweb.com">Coding ahmedabad</a> | <span class="far fa-copyright"></span> 2022 	All rights reserved.</span>
+        <span>Created By <a href="https://www.codingnepalweb.com">Coding altaf</a> | <span class="far fa-copyright"></span> 2020 All rights reserved.</span>
     </footer>
 
     <script src="script.js"></script>
